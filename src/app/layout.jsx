@@ -3,8 +3,8 @@ import "./globals.css";
 
 export const metadata = {
   title: {
-    template: "blog_app",
-    default: "Personal Blog - A feature to make you famous",
+    template: "Abdullah",
+    default: "Abdullah",
   },
 };
 
